@@ -31,8 +31,10 @@ to know more about this project and get the download link click <a href="https:/
 
 ### DNS
 
-- Change DNS
+- Fast Change of DNS with two clicks knowing the latency to reference
 - Swap DNS CACHE
+- Restore DNS settings to default
+
 
 ### Ports
 
