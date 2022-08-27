@@ -20,18 +20,18 @@ to know more about this project and get the download link click <a href="https:/
 - Restore network settings to Windows default
 - Advanved Settings to customize your config
 - Check if the settings are applied and notify the user
-</p>
+
 - Test ping at 0.5s intervals (By default windows tests every 1s)
 - Optional ping test log save
 - Customizable number of shots with consistent progress bar
-</p>
+
 - Change DNS
 - Swap DNS CACHE
-</p>
+
 - Test UDP and TCP ports
 - Check NAT type
 - Assist to port forwarding 
-</p>
+
 - Check updates on startup
 
 ## Minimum requirements
