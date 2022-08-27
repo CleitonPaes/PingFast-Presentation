@@ -12,19 +12,27 @@ Currently, the program is only offered in Brazilian Portuguese, but an English v
 
 The source of this project is not available for security reasons, Login and VPN should appear in future versions </p>
 
+to know more about this project and get the download link click <a href="https://pingfast.com.br">here</a>
+
 ## Current Functions
 
 - Change network settings to reduce latency
 - Restore network settings to Windows default
 - Advanved Settings to customize your config
 - Check if the settings are applied and notify the user
+</p>
 - Test ping at 0.5s intervals (By default windows tests every 1s)
-- Option to save report
+- Optional ping test log save
 - Customizable number of shots with consistent progress bar
+</p>
 - Change DNS
 - Swap DNS CACHE
+</p>
 - Test UDP and TCP ports
 - Check NAT type
+- Assist to port forwarding 
+</p>
+- Check updates on startup
 
 ## Minimum requirements
 
