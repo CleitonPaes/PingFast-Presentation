@@ -1,13 +1,16 @@
 # PingFast Presentation
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/106140045/169974064-5162b6a1-2728-42f4-946e-ec7bb543546e.png?raw=true"/>
-  <img src="https://user-images.githubusercontent.com/106140045/169974066-a6daf89a-7dca-4365-b219-57b093cee3e5.png?raw=true"/>
+  <img src="https://user-images.githubusercontent.com/106140045/187012517-be90852f-55e5-435c-a49b-13ecddc030cf.jpg?raw=true"/>
 </p>
 
 ## Intro
 
-PingFast is a program to help the average user test and optimize their connection for the lowest possible ping, performing these changes manually requires a series of registry entries and some of these changes take effect after a major windows update. With that in mind, the program was developed to make the user's life easier.
+PingFast is a program to help the average user test and optimize their connection for the lowest possible ping, performing these changes manually requires a series of registry entries and some of these changes take effect after a major windows update. With that in mind, the program was developed to make the user's life easier. </p>
+
+Currently, the program is only offered in Brazilian Portuguese, but an English version is planned for the near future. </p>
+
+The source of this project is not available for security reasons, Login and VPN should appear in future versions </p>
 
 ## Current Functions
 
