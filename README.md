@@ -16,27 +16,36 @@ to know more about this project and get the download link click <a href="https:/
 
 ## Current Functions
 
-### a
+### Optimize
 
 - Change network settings to reduce latency
 - Restore network settings to Windows default
 - Advanved Settings to customize your config
 - Check if the settings are applied and notify the user
 
+### Ping
+
 - Test ping at 0.5s intervals (By default windows tests every 1s)
 - Optional ping test log save
 - Customizable number of shots with consistent progress bar
 
+### DNS
+
 - Change DNS
 - Swap DNS CACHE
+
+### Ports
 
 - Test UDP and TCP ports
 - Check NAT type
 - Assist to port forwarding 
 
+### Others
+
 - Check updates on startup
+- Automatically identifies the network adapter used
 
 ## Minimum requirements
 
-- Microsoft Windows 7+ (Some changes have no effect on pre-Win10 systems)
+- Microsoft Windows 7+
 - Microsoft .NET Framework 4.8 (Already included in Win 10+)
