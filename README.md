@@ -6,7 +6,7 @@
 
 ## Intro
 
-PingFast is a program to help the average user test and optimize their connection for the lowest possible ping, performing these changes manually requires a series of registry entries and some of these changes stop taking effect after a major windows update. The program identify if everything still working fine in a friendly interface , everything was thinking about make the user's life easier. </p>
+PingFast is a program to help the average user test and optimize their connection for the lowest possible ping, performing these changes manually requires a series of registry entries and some of these changes stop taking effect after a major windows update. The program identify if everything is still working fine in a friendly interface , everything was thought about make the user's life easier. </p>
 
 Currently, the program is only offered in Brazilian Portuguese, but an English version is planned for the near future. </p>
 
