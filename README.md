@@ -20,13 +20,13 @@ to know more about this project and get the download link click <a href="https:/
 
 - Change network settings to reduce latency
 - Restore network settings to Windows default
-- Advanved Settings to customize your config
-- Check if the settings are applied and notify the user
+- Advanced Settings to customize your config
+- Check if the settings still applied
 
 ### Ping
 
 - Test ping at 0.5s intervals (By default windows tests every 1s)
-- Optional ping test log save
+- Optional log save
 - Customizable number of shots with consistent progress bar
 
 ### DNS
