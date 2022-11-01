@@ -1,7 +1,7 @@
 # PingFast Presentation
 
 <p align="center">
-  <img src="(https://user-images.githubusercontent.com/106140045/199159713-03814aab-c569-4be0-a33d-fd836f5604dd.jpg?raw=true"/>
+  <img src="https://user-images.githubusercontent.com/106140045/199159713-03814aab-c569-4be0-a33d-fd836f5604dd.jpg?raw=true"/>
 </p>
 
 ## Intro
