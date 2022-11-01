@@ -25,7 +25,7 @@ to know more about this project and get the download link click <a href="https:/
 
 ### Ping
 
-- Test ping at 0.5s intervals (By default windows tests every 1s)
+- Test ping at 0.5s intervals and 1000ms of timeout (The default prompt value is 1s  and 4000ms respectively)
 - Optional log save
 - Customizable number of shots with consistent progress bar
 
@@ -35,17 +35,20 @@ to know more about this project and get the download link click <a href="https:/
 - Swap DNS CACHE
 - Restore DNS settings to default
 
+### Extras
 
-### Ports
-
-- Test UDP and TCP ports
+- Option to test, apply and restore MTU
+- Optimize windows settings for games
+- Test TCP ports
 - Check NAT type
-- Assist to port forwarding 
 
 ### Others
 
-- Check updates on startup
-- Automatically identifies the network adapter used
+- Assist to port forwarding
+- Reset network settings
+- Customize if the Optimize and DNS settings will be applied to all adapters
+- Check updates
+- Automatically identifies the default network adapter
 
 ## Minimum requirements
 
