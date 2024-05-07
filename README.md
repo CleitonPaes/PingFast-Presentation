@@ -1,7 +1,7 @@
 # PingFast Presentation
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/106140045/199159713-03814aab-c569-4be0-a33d-fd836f5604dd.jpg?raw=true"/>
+  <img src="https://github.com/CleitonPaes/PingFast-Presentation/assets/106140045/806862bf-c717-468c-9d5b-9b4da97fd0ff?raw=true"/>
 </p>
 
 ## Intro
@@ -15,6 +15,15 @@ The source of this project is not available for security reasons, Login and VPN 
 to know more about this project and get the download link click <a href="https://pingfast.com.br">here</a>
 
 ## Current Functions
+
+### General
+
+- Languages: English, Portuguese
+- Assist to port forwarding
+- Reset / Fix network settings
+- Customize if the Optimize, DNS and MTU settings will be applied to all adapters
+- Check updates
+- Automatically identifies the default network adapter
 
 ### Optimize
 
@@ -41,14 +50,6 @@ to know more about this project and get the download link click <a href="https:/
 - Optimize windows settings for games
 - Test TCP ports
 - Check NAT type
-
-### Others
-
-- Assist to port forwarding
-- Reset network settings
-- Customize if the Optimize and DNS settings will be applied to all adapters
-- Check updates
-- Automatically identifies the default network adapter
 
 ## Minimum requirements
 
